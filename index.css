@@ -58,6 +58,7 @@ html {
     display:flex;
     gap: 1.5rem;
     justify-content: center;
+    color: rgb(56, 56, 155);
 } 
 
 .changes{
